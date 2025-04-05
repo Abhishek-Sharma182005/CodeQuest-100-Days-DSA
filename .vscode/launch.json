@@ -3,5 +3,13 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "java",
+            "name": "day_5sol",
+            "request": "launch",
+            "mainClass": "day_5sol",
+            "projectName": "CodeQuest-100-Days-DSA_2a6ecf9d"
+        }
+    ]
 }
