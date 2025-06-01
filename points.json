@@ -1,9 +1,11 @@
 {
-
+  "total_points": 0,
+  "last_updated": "2025-06-01T19:23:16.309608+00:00",
+  "users": {},
+  "history": [],
   "metadata": {
-    "event": "April 1-5 PR Challenge",
+    "event": "Daily PR Challenge",
     "points_per_pr": 3,
-    "max_points": 15,
-
+    "event_start_date": "2025-04-01"
   }
 }
