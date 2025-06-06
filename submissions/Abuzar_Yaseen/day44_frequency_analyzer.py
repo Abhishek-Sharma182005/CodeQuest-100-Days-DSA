@@ -1,5 +1,5 @@
 frequency = input("Enter frequency: ")
-input_freq = list(map(int,frequency.strip().split()))\
+input_freq = list(map(int,frequency.strip().split()))
 
 count = {}
 
